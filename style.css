@@ -1,0 +1,30 @@
+html{
+background-image: url("beach.jpg");
+background-repeat: no-repeat;
+background-size: 1950px;
+background-position: fill;
+}
+
+header{
+    padding: 7px;
+    margin: 50px;
+   
+}
+header h1{ color: aqua;
+float:right;
+}
+header img {
+width: 200px;
+height:100px;
+}
+a {text-decoration: none;}
+#contentpane{margin: 25px;
+background-color: blue;}
+#contentpane a {  float: left;
+    display: block;
+    color: #530000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
